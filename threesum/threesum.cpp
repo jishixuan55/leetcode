@@ -31,6 +31,7 @@ using namespace std;
  };
 int _tmain(int argc, _TCHAR* argv[])
 {
+	int a = 0;
 	Solution solu;
 	ListNode* l1 = new ListNode(1);
 	ListNode* l2 = new ListNode(2);
